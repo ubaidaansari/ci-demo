@@ -1,0 +1,8 @@
+
+def add(a, b):
+    return a + b
+
+
+if __name__ == "__main__":
+    print("Hello, CI Pipeline!")
+    print("Addition:", add(5, 3))
